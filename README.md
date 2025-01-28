@@ -48,8 +48,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=donii3&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=donii3&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>  
 
-[![donii3's Activity Chart](https://github-readme-activity-graph.vercel.app/graph?username=donii3&custom_title=Donald%20Ajom%20Agamah%27s%20Activity%20Chart&hide_border=true&theme=tokyonight)](#)  
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@donii3&theme=tokyonight)](https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2)
+[![donii3's Activity Chart](https://github-readme-activity-graph.vercel.app/graph?username=donii3&custom_title=Donald%20Ajom%20Agamah%27s%20Activity%20Chart&hide_border=true&theme=tokyonight)](#)
 
 [![WakaTime Badge](https://wakatime.com/badge/user/4af4fa51-e674-4708-836c-ccd8bc04aef2.svg)](https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2)
