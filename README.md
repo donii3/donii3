@@ -31,7 +31,8 @@
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)
 ![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI Engineer Badge](https://img.shields.io/badge/AI%20Engineer-0085FF?style=for-the-badge&logo=ai&logoColor=white)
+![AI Badge](https://img.shields.io/badge/Artificial%20Intelligence-0085FF?style=for-the-badge&logo=openai&logoColor=white)
+
 
 
 #### 🎛 Frameworks and Tools  
