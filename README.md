@@ -1,81 +1,50 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Donald%20Ajom%20Agamah&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=⚡%20Engineering%20the%20Future%20%7C%20One%20Commit%20at%20a%20Time%20⚡&descSize=16&descAlignY=55&descColor=c9d1d9" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Donald%20Ajom%20Agamah&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Engineering%20the%20Future%20%7C%20One%20Commit%20at%20a%20Time&descSize=16&descAlignY=55&descColor=c9d1d9" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Full-Stack+%26+Web3+Software+Engineer+%F0%9F%9A%80;Blockchain+%26+dApps+Developer+%E2%9B%93;Data+Scientist+%26+Business+Analyst+%F0%9F%93%8A;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;The+Word%3B+My+Sunesis+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Full-Stack+%26+Web3+Software+Engineer;Blockchain+%26+dApps+Developer;Data+Scientist+%26+Business+Analyst;AI+%26+Machine+Learning+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=donii3&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=donii3&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   &nbsp;&nbsp;
   <a href="mailto:agdonald7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2">
-    <img src="https://img.shields.io/badge/WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white" alt="WakaTime" />
+    <img src="https://img.shields.io/badge/WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/donii3?style=flat-square&color=58A6FF&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/donii3?style=flat-square&color=58A6FF&logo=github&logoColor=white&label=Followers" />
 </div>
 
-<br/>
+---
+
+## About Me
+
+I am a versatile and seasoned Software Engineer with deep expertise across the full software development stack — from architecting high-performance backend systems and building modern frontend interfaces to deploying and consuming blockchain-based decentralized applications. I bring equal mastery to the data domain, working as a Data Scientist, Data Analyst, and Business Analyst capable of handling the entire data pipeline from raw ingestion and transformation through to executive-level dashboards and predictive modelling.
+
+What sets me apart is an uncommon convergence: a formal foundation in Medical Science (BSc Human Anatomy, MBBS in progress at Benue State University) that sharpens my analytical precision and systems thinking — applied directly to building robust, intelligent software and data products. I am passionate about Blockchain technology, decentralized applications, Open Source, and the frontier of AI and machine learning.
+
+- Currently building robust Web2 and Web3 applications and exploring AI-powered data solutions
+- Full data pipeline mastery — from raw ETL and wrangling to executive-level BI dashboards
+- Passionate about dApps, Smart Contracts, DeFi, and Open Source contribution
+- Unique edge: Medical Science crossed with Engineering — deep analytical rigor in every system I build
+- Ask me about anything in tech — if I do not know it yet, I will figure it out
+- Mantra: **"The Word; My Sunesis"**
 
 ---
 
-## 🧬 About Me
+## Tech Arsenal
 
-```python
-class DonaldAjomAgamah:
-    def __init__(self):
-        self.name        = "Donald Ajom Agamah"
-        self.alias       = "donii3"
-        self.location    = "Nigeria 🇳🇬"
-        self.roles       = [
-            "Full-Stack Engineer",
-            "Web3 / Blockchain Developer",
-            "Data Scientist",
-            "Business Analyst",
-        ]
-        self.languages   = ["Python", "Go", "TypeScript", "JavaScript", "Java",
-                            "Kotlin", "Rust", "C/C++", "PHP", "Solidity", "R", "Julia", "SQL"]
-        self.superpower  = "Bridging Medicine, Data, & Software Engineering"
-        self.education   = [
-            "BSc Human Anatomy (Hons) — Benue State University",
-            "MBBS (In Progress)       — Benue State University",
-        ]
-        self.currently   = "Building robust Web2 & Web3 apps + AI-powered data solutions"
-        self.mantra      = "The Word; My Sunesis ✨"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something incredible together. 🚀")
-
-me = DonaldAjomAgamah()
-me.say_hi()
-```
-
-<br/>
-
-- 🔭 &nbsp;Currently building **robust Web2 & Web3 applications** and exploring **AI-powered data solutions**
-- 🧠 &nbsp;Deep expertise spanning **Software Engineering**, **Data Science**, and **Blockchain Technology**
-- 📊 &nbsp;Full data pipeline mastery — from **raw ETL & wrangling** to **executive-level BI dashboards**
-- ⛓️ &nbsp;Passionate about **dApps**, **Smart Contracts**, **DeFi**, and contributing to **Open Source**
-- 🎓 &nbsp;Unique edge: **Medical Science × Engineering** — bringing deep analytical rigor to every system I build
-- 💬 &nbsp;Ask me about anything in tech — if I don't know it yet, I'll figure it out
-- ⚡ &nbsp;Mantra: **"The Word; My Sunesis"**
-
----
-
-## 🛠️ Tech Arsenal
-
-### 💻 Languages
+### Languages
 
 #### General Purpose & High-Level
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -89,6 +58,7 @@ me.say_hi()
 </p>
 
 #### Systems & Low-Level
+
 <p align="left">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -97,6 +67,7 @@ me.say_hi()
 </p>
 
 #### AI, Data Science & Statistical
+
 <p align="left">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
@@ -104,6 +75,7 @@ me.say_hi()
 </p>
 
 #### Web & Query
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -111,7 +83,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
-### ⚛️ Frontend
+### Frontend
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -120,7 +92,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### 🖥️ Backend & Runtime
+### Backend & Runtime
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -128,7 +100,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
-### ⛓️ Blockchain & Web3
+### Blockchain & Web3
 
 <p align="left">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
@@ -138,7 +110,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -148,7 +120,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 
-### 🔧 DevTools & Platforms
+### DevTools & Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -161,7 +133,7 @@ me.say_hi()
 
 ---
 
-## 📊 Data Science & Analytics Stack
+## Data Science & Analytics Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -179,44 +151,39 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=donii3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=donii3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=donii3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" />
-      </td>
-      <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donii3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donii3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donii3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=donii3&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27" />
+  <img src="https://streak-stats.demolab.com?user=donii3&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
 
-## 📅 Contribution Activity
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=donii3&custom_title=Donald's%20Contribution%20Graph&bg_color=1a1b27&color=628fdb&line=4568dc&point=58A6FF&area=true&area_color=1a1b27&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=donii3&custom_title=Donald%27s+Contribution+Graph&bg_color=1a1b27&color=628fdb&line=4568dc&point=58A6FF&area=true&hide_border=true" />
 </div>
 
 ---
 
-## ⏱️ Weekly Dev Breakdown
+## Weekly Dev Breakdown
 
 <div align="center">
   <a href="https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2">
@@ -226,23 +193,11 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/donii3/donii3/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/donii3/donii3/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/donii3/donii3/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-## 🤝 Let's Connect
+## Connect
 
 <div align="center">
   <a href="mailto:agdonald7@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/donii3">
@@ -257,7 +212,7 @@ me.say_hi()
 <br/>
 
 <div align="center">
-  <i>✨ &nbsp;"The Word; My Sunesis"&nbsp; ✨</i>
+  <i>"The Word; My Sunesis"</i>
   <br/><br/>
   <b>Open to collaborations, consulting, and conversations that push the boundary of what's possible.</b>
 </div>
