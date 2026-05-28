@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Full-Stack+%26+Web3+Software+Engineer;Blockchain+%26+dApps+Developer;Data+Scientist+%26+Business+Analyst;AI+%26+Machine+Learning+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Full-Stack+%26+Web3+Software+Engineer;Blockchain+%26+dApps+Developer;Data+Scientist+%26+Business+Analyst;AI+%26+Machine+Learning+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -151,23 +151,7 @@ What sets me apart is an uncommon convergence: a formal foundation in Medical Sc
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=donii3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</div>
-
----
-
 ## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donii3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donii3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=donii3&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
