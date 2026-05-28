@@ -15,10 +15,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2">
-    <img src="https://img.shields.io/badge/WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/donii3?style=flat-square&color=58A6FF&logo=github&logoColor=white&label=Followers" />
 </div>
 
@@ -167,16 +163,6 @@ What sets me apart is an uncommon convergence: a formal foundation in Medical Sc
 
 ---
 
-## Weekly Dev Breakdown
-
-<div align="center">
-  <a href="https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2">
-    <img src="https://wakatime.com/badge/user/4af4fa51-e674-4708-836c-ccd8bc04aef2.svg?style=for-the-badge" alt="WakaTime coding time" />
-  </a>
-</div>
-
----
-
 ## Connect
 
 <div align="center">
@@ -186,10 +172,6 @@ What sets me apart is an uncommon convergence: a formal foundation in Medical Sc
   &nbsp;&nbsp;
   <a href="https://github.com/donii3">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wakatime.com/@4af4fa51-e674-4708-836c-ccd8bc04aef2">
-    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" />
   </a>
 </div>
 
